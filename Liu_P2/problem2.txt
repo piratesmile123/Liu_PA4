@@ -1,6 +1,0 @@
-dog
-dog
-cat
-cat
-dog
-dog
